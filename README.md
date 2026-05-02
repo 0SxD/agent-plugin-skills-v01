@@ -1,3 +1,7 @@
+> Status: R&D / scratchpad. Part of Sage / 0SxD's prompt-engineering research portfolio. Content may move, change, or be withdrawn. See LICENSE for terms.
+>
+> DUPLICATE -- see canonical at github.com/0SxD/agent-skills-plugin-v01
+
 # SageX
 
 **Deterministic agent governance for Claude Code.**
